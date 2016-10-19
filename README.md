@@ -1,5 +1,5 @@
 # hello-world
 This is my first test repository
 
-My goal is to learn some python coding.
-Specially plot and sympy
+I'm trying to find out how to use git for managing repositories.
+I've learned clone via command line.
